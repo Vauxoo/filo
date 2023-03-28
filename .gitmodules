@@ -1,0 +1,4 @@
+[submodule "filo"]
+	path = filo
+	url = git@git.vauxoo.com:vauxoo/filo.git
+	branch = 16.0
