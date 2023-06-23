@@ -2,3 +2,7 @@
 	path = filo
 	url = git@git.vauxoo.com:vauxoo/filo.git
 	branch = 16.0
+[submodule "crm"]
+	path = crm
+	url = git@github.com:vauxoo/crm.git
+	branch = 16.0
