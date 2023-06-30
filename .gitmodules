@@ -2,3 +2,7 @@
 	path = filo
 	url = git@git.vauxoo.com:vauxoo/filo.git
 	branch = 16.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:Vauxoo/product-attribute.git
+	branch = 16.0
